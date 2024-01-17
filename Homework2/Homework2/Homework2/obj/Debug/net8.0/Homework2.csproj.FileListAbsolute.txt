@@ -1,0 +1,15 @@
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/bin/Debug/net8.0/Homework2
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/bin/Debug/net8.0/Homework2.deps.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/bin/Debug/net8.0/Homework2.runtimeconfig.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/bin/Debug/net8.0/Homework2.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/bin/Debug/net8.0/Homework2.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.AssemblyInfoInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.AssemblyInfo.cs
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.sourcelink.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/refint/Homework2.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/Homework2.genruntimeconfig.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework2/Homework2/Homework2/obj/Debug/net8.0/ref/Homework2.dll
