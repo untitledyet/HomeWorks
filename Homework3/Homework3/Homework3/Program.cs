@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        /*
         Console.Write("Input Number : ");
         string inputNumber = Console.ReadLine();
 
@@ -24,10 +23,8 @@ class Program
         {
             Console.WriteLine($"{inputNumber} is not valid Number Format");
         }
-        */
 
 
-        /*
         double number1 = 0;
         double number2 = 238;
 
@@ -55,9 +52,7 @@ class Program
             Console.WriteLine("Division : Not Allowed To Divide By Zero");
         }
 
-        */
 
-        /*
         var x = 8;
         var y = 9;
 
@@ -68,11 +63,8 @@ class Program
         x = z;
         Console.WriteLine("x = " + x);
         Console.WriteLine("y = " + y);
-        */
 
 
-        /*
-        
         Console.Write("Input Number : ");
         var numberForMultiple = Console.ReadLine();
 
@@ -90,10 +82,7 @@ class Program
             Console.WriteLine("Something Went Wrong");
         }
 
-        */
 
-        
-        /*
         Console.Write("Input Number : ");
         var n = Console.ReadLine();
 
@@ -111,6 +100,8 @@ class Program
         else
         {
             Console.WriteLine("Somethins Went Wrong");
-        } */
+        }
+
+        
     }
 }
