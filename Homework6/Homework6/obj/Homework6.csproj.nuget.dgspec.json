@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework3/Homework3/Homework3/Homework3.csproj": {}
+    "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework6/Homework6/Homework6.csproj": {}
   },
   "projects": {
-    "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework3/Homework3/Homework3/Homework3.csproj": {
+    "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework6/Homework6/Homework6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework3/Homework3/Homework3/Homework3.csproj",
-        "projectName": "Homework3",
-        "projectPath": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework3/Homework3/Homework3/Homework3.csproj",
+        "projectUniqueName": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework6/Homework6/Homework6.csproj",
+        "projectName": "Homework6",
+        "projectPath": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework6/Homework6/Homework6.csproj",
         "packagesPath": "/Users/meskhdav/.nuget/packages/",
-        "outputPath": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework3/Homework3/Homework3/obj/",
+        "outputPath": "/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework6/Homework6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meskhdav/.nuget/NuGet/NuGet.Config"
