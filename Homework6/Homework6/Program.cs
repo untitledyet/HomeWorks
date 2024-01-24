@@ -1,13 +1,12 @@
 ﻿
+using System.Runtime.CompilerServices;
+
 class Program
 {
     static void Main()
     {
         /*
         #region ArraySolution
-
-
-
 
         int[] arrayOdd = new int[] { };
         int[] arrayEven = new int[] { };
@@ -50,7 +49,7 @@ class Program
             Console.WriteLine(j);
         }
 
-        #endregion */ //Solution With Array
+        #endregion  */ //Solution With Array
 
 
         /*
@@ -103,6 +102,7 @@ class Program
 
 
         /*
+        
         #region Contacts
 
         var contacts = new Dictionary<string, int>()
@@ -219,9 +219,10 @@ class Program
             Console.WriteLine("Something went wrong");
         }
 
-        #endregion  */ //Contact List
+        #endregion */ //Contact List
 
 
+        /*
         #region counter
 
         List<int> arrayNumbers = new List<int>();
@@ -267,6 +268,8 @@ class Program
         
         
 
-        #endregion
+        #endregion */ //Linq
+        
+
     }
 }
