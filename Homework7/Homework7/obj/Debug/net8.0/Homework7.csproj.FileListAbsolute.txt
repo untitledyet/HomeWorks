@@ -1,0 +1,15 @@
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/bin/Debug/net8.0/Homework7
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/bin/Debug/net8.0/Homework7.deps.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/bin/Debug/net8.0/Homework7.runtimeconfig.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/bin/Debug/net8.0/Homework7.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/bin/Debug/net8.0/Homework7.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.AssemblyInfoInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.AssemblyInfo.cs
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.csproj.CoreCompileInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.sourcelink.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/refint/Homework7.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/Homework7.genruntimeconfig.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/HomeWorks/Homework7/Homework7/obj/Debug/net8.0/ref/Homework7.dll
