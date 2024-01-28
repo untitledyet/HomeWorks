@@ -28,7 +28,7 @@ else
 /*
 #region Slot
 
-Console.WriteLine("დაიწყე თამაში");
+Console.WriteLine("დაიწყე თამაში ");
 var symbols = new List<int>();
 Random random = new Random();
 
@@ -36,7 +36,7 @@ while (true)
 {
     symbols.Clear();
     Console.Read();
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 3; i++)
     {
         int randomNumber = random.Next(1, 4);
         symbols.Add(randomNumber);
